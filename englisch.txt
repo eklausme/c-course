@@ -1,0 +1,5 @@
+Apfel=apple
+Haus=house
+Zahl=figure
+Stift=pen
+Tastatur=keyboard
